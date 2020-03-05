@@ -11,3 +11,4 @@ Update your email configurations in ```.env```
 <img src="app3.png" alt="Laravel Multi User Blogging Platform" />
 <img src="app4.png" alt="Laravel Multi User Blogging Platform" />
 <img src="app5.png" alt="Laravel Multi User Blogging Platform" /># app2
+# blog
